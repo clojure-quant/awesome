@@ -10,3 +10,6 @@ https://github.com/fmnoise/flow/blob/master/src/fmnoise/flow.cljc
 
 ### dag creation
 https://github.com/stuartsierra/dependency
+
+### chart
+https://github.com/leeoniya/uPlot/tree/master?tab=readme-ov-file
