@@ -1,12 +1,22 @@
-#Options:
+# multithreading
 
 - core.async
 - promesa
 - manifold (aleph)
 - pathom pathom3 (fulcro)
-- missionary (hyperfiddle)
-- https://github.com/kennytilton/matrix/tree/main
+  
+### missionary
+- https://github.com/leonoel/missionary
+- Used by electric
 
+### webmx / matrix
+- Like javelin.
+- https://github.com/kennytilton/matrix/tree/main
+- https://github.com/kennytilton/web-mx
+
+### rama
+- https://www.google.com/amp/s/blog.redplanetlabs.com/2023/10/11/introducing-ramas-clojure-api/amp/
+- Huge prior experience with spark
 
 
 ### Onyx
