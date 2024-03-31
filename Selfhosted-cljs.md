@@ -15,3 +15,6 @@ https://github.com/mhuebert/shadow-bootstrap-example
 
 # reepl
 https://github.com/jaredly/reepl
+
+# replete
+https://github.com/replete-repl/replete-web
