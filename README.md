@@ -10,3 +10,6 @@ https://github.com/stuartsierra/dependency
 
 # bad backteat lib in clj
 https://github.com/clojure-finance/clojure-backtesting
+
+# ta transducer
+https://github.com/rereverse/tapassage
