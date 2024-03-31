@@ -24,3 +24,6 @@ You can use it for dataflow style programming, it has a very data-driven API, an
 
 ### TASK PIPELINE 
 https://github.com/sunng87/papaline
+
+### core.async pipelines
+https://github.com/ryrobes/flowmaps
