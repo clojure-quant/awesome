@@ -12,3 +12,6 @@ https://github.com/pinealan/niddle
 
 # shadow bootstrap example
 https://github.com/mhuebert/shadow-bootstrap-example
+
+# reepl
+https://github.com/jaredly/reepl
