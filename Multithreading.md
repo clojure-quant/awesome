@@ -30,3 +30,6 @@ https://github.com/ryrobes/flowmaps
 
 ### riemann
 https://github.com/riemann/riemann
+
+# domino data flow engine
+https://github.com/domino-clj/domino
