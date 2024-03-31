@@ -27,3 +27,6 @@ https://github.com/sunng87/papaline
 
 ### core.async pipelines
 https://github.com/ryrobes/flowmaps
+
+### riemann
+https://github.com/riemann/riemann
