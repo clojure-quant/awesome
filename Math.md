@@ -10,3 +10,6 @@ https://slugclojure.ahungry.com/package/MichaelDrogalis.onyx https://github.com/
 
 pivot tables in clojure
 https://github.com/char16t/pivot
+
+### clojure math/physics
+https://github.com/sicmutils/sicmutils
