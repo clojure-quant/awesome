@@ -9,3 +9,6 @@ https://github.com/mhuebert/maria
 
 # nrepl eval printer
 https://github.com/pinealan/niddle
+
+# shadow bootstrap example
+https://github.com/mhuebert/shadow-bootstrap-example
