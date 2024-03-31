@@ -6,3 +6,6 @@ https://github.com/viebel/klipse
 
 # maria
 https://github.com/mhuebert/maria
+
+# nrepl eval printer
+https://github.com/pinealan/niddle
