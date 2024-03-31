@@ -13,3 +13,6 @@ https://github.com/char16t/pivot
 
 ### clojure math/physics
 https://github.com/sicmutils/sicmutils
+
+# genetic algos
+https://github.com/JonyEpsilon/darwin
