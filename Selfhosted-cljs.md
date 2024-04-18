@@ -18,3 +18,7 @@ https://github.com/jaredly/reepl
 
 # replete
 https://github.com/replete-repl/replete-web
+
+# selfhosted clojurescript with life music.
+http://ctford.github.io/klangmeister/
+https://github.com/ctford/klangmeister
